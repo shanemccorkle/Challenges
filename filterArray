@@ -1,0 +1,8 @@
+
+function filterArrayValues(arr) {
+  
+
+
+};
+
+console.log(filter_array_values([58, '', 'abcd', true, null, false, 0]));
